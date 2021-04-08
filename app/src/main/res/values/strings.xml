@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Telestrations</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="player_name">Player</string>
+    <string name="clear">Clear</string>
+    <string name="room_code">Room Code:</string>
+    <string name="start_game">Start Game</string>
+    <string name="phrase_select">Select your phrase:</string>
+    <string name="submit">Submit</string>
+    <string name="guess_picture">Guess what this picture is:</string>
+    <string name="you_draw">You draw: </string>
+    <string name="results">Here are the results for your word: </string>
+    <string name="next">Next </string>
+
+</resources>
